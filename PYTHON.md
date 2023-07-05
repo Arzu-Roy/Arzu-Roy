@@ -1,1 +1,1 @@
-project for poython
+project for python
