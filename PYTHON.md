@@ -1,1 +1,2 @@
-project for python
+#project for python
+print("hello")
